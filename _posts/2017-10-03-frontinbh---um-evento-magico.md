@@ -54,7 +54,6 @@ Pessoas :)
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1498190073602237%26set%3Da.244640055623918.62703.100002337772832%26type%3D3&width=758" width="758" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 Brindes :)
-
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbomfimjr%2Fposts%2F1498188980269013&width=758" width="758" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 Foi um grande evento para mim, puder além de viajar para outro estado e andar de avião pela primeira vez, conheci novos amigos, troquei idéias e comprei muito queijo no mercadão de BH. Se precisar de uma indicação de loja fale com a [@simonemyrrha](https://twitter.com/simonemyrrha) :). Na volta para SP, ainda no aeroporto de Confins, vi o Sidney Magal e no meu vôo Baby do Brasil.
