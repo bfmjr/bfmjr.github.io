@@ -30,6 +30,6 @@ O ultimo time foi o da TOTVS e o que tem mais tempo de vida. O desafio deles foi
 
 O evento com certeza vai ajudar muito os profissionais que lá estiveram, tendo algo real para se basearem e conseguirem traçar o caminho para implementarem UX em seus times.
 
-![alt text](https://bfmjr.com.br/assets/img/ux-team-summit/ux-team-summit-foto-galera.jpg "Fotos com todas as pessoas que estiveram no UX Team Summit 2017")
+![alt text](/assets/img/ux-team-summit/ux-team-summit-foto-galera.jpg "Fotos com todas as pessoas que estiveram no UX Team Summit 2017")
 
 Em breve os vídeos, fotos e materais ficarão disponíveis. Para saber o que rolou só seguir a hastag [#UXTEamSummitBR](https://twitter.com/search?q=%23UXTeamSummitBR&src=typd) no twitter.
