@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "FrontIn Campinas - Primeira Edição"
-date: 2018-05-14 18:00:00
-image: '/assets/img/'
+date: 2018-05-15 11:00:00
+image: '/assets/img/front-in-campinas-2018/front-in-campinas-2018.png'
 description: 'Primeiro FrontIn Campinas.'
 main-class: 'eventos'
 color: '#464646'
