@@ -2,7 +2,7 @@
 layout: post
 title: "Trabalho em Sampa e Primeiros Meetups"
 date: 2018-05-14 14:44:00
-image: '/assets/img/'
+image: '/assets/img/trabalho-em-sampa-e-primeiros-meetups/trabalho-em-sampa-e-primeiros-meetups.png'
 description: 'Como foi vir trabalhar para Sampa e os primeiros eventos.'
 main-class: 'dev'
 color: '#C0315f'
